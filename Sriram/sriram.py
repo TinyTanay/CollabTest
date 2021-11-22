@@ -45,3 +45,8 @@ print(phrase.isupper())
 #To checck if it is lower case, simply
 print(phrase.islower())
 #Which will both return True or False values
+#To check if this works
+print(phrase.upper().isupper())
+#Which will return True and
+print(phrase.lower().islower())
+#Which will return False
