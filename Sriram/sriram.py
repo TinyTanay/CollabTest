@@ -34,3 +34,14 @@ print("Giraffe")
 print("Dog\nCat\nGiraffe")
 phrase = "Dog, Cat & Giraffe"
 print(phrase + " are all cool animals")
+#Good things to do with functions that are useful
+print(phrase)
+#To make into upper case, simply
+print(phrase.upper())
+#To make into lower case, simply
+print(phrase.lower())
+#To check if it is upper case, simply
+print(phrase.isupper())
+#To checck if it is lower case, simply
+print(phrase.islower())
+#Which will both return True or False values
