@@ -26,3 +26,9 @@ print("He liked the name " + character_name + ". ")
 print("And he was fine with being " + character_age + " years old. ")
 
 #Working With Strings
+
+print("Dog")
+print("Cat")
+print("Giraffe")
+#instead what you could do is:
+print("Dog\nCat\nGiraffe")
