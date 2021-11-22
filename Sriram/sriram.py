@@ -50,3 +50,9 @@ print(phrase.upper().isupper())
 #Which will return True and
 print(phrase.lower().islower())
 #Which will return False
+#To check the length of a Strings
+print(len(phrase))
+#Which will return the length of my Variable
+#You can also return specific letters of the Strings like this:
+print(phrase[0])
+#Which will return the first letter. PYTHON INDEX STARTS ON 0 FOR Strings
