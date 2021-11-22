@@ -59,3 +59,6 @@ print(phrase[0])
 #Similarly, you can use the index function to return how many of a letter there is in a Strings
 pritn(phrase.index(a))
 #Which would return how many a's are in the Strings
+#You can also replace words like so:
+print(phrase.replace("Dog", "Donkey"))
+#Which would change the strings
