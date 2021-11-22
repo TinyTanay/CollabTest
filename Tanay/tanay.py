@@ -3,6 +3,7 @@ class Pet():
         self.age = age
         self.name = name
 
+
 class Cat(Pet):
     def __init__(self, age, name, colour, breed):
         super().__init__(age, name)
@@ -16,6 +17,7 @@ class Cat(Pet):
     @classmethod
     def show():
         print(f"I am a {self.breed} and {self.age} years old")
+
 
 class Dog():
     pass
