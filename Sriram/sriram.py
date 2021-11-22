@@ -57,7 +57,7 @@ print(len(phrase))
 print(phrase[0])
 #Which will return the first letter. PYTHON INDEX STARTS ON 0 FOR Strings
 #Similarly, you can use the index function to return how many of a letter there is in a Strings
-print(phrase.index(a))
+print(phrase.index("a"))
 #Which would return how many a's are in the Strings
 #You can also replace words like so:
 print(phrase.replace("Dog", "Donkey"))
