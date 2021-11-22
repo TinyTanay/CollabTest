@@ -32,3 +32,5 @@ print("Cat")
 print("Giraffe")
 #instead what you could do is:
 print("Dog\nCat\nGiraffe")
+phrase = "Dog, Cat & Giraffe"
+print(phrase + " are all cool animals")
