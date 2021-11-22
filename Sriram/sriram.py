@@ -62,3 +62,5 @@ print(phrase.index("a"))
 #You can also replace words like so:
 print(phrase.replace("Dog", "Donkey"))
 #Which would change the strings
+
+#Working with Numbers
