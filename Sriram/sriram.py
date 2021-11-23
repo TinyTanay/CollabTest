@@ -64,3 +64,5 @@ print(phrase.replace("Dog", "Donkey"))
 #Which would change the strings
 
 #Working with Numbers
+Favourite_Pet = input("What is your favourite pet")
+print(Favourite_Pet)
