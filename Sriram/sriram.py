@@ -69,3 +69,10 @@ print(6)
 print("6")
 print(3 + 4 * 6)
 print((3 + 4) * 6)
+#This find the absolute value of a Numbers
+my_num = 5
+print(abs(my_num))
+#This does the power of
+print(pow("5,  212983725"))
+#Or
+print(5^2)
