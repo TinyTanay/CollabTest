@@ -73,6 +73,4 @@ print((3 + 4) * 6)
 my_num = 5
 print(abs(my_num))
 #This does the power of
-print(pow(5, 2234))
-#Or
-print(5^2)
+print(pow(5, 23))
