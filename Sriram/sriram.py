@@ -90,3 +90,5 @@ print(floor(3.2))
 print(ceil(3.2))
 #This is one final useful function to square root a Numbers
 print(sqrt(36))
+
+#Getting input from users
