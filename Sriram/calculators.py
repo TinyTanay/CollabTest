@@ -17,6 +17,10 @@ elif symbol == "-":
 elif symbol == "x":
     print(float(num1) * float(num2))
 elif symbol == "square":
-    print(float(num1) * float(num1) + float(num2) * float(num2))    
+    print(float(num1) * float(num1) + float(num2) * float(num2))
+elif symbol == "power":
+    print(pow(num1, num2))
+elif symbol == "sqrt":
+    print(sqrt(num1) + sqrt(num2))
 else:
     print(float(num1) / float(num2))
