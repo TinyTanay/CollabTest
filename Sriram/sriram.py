@@ -77,7 +77,7 @@ print(pow(5, 23))
 #This finds the bigger Numbers
 print(max(5, 10, 21))
 #This finds the smaller Numbers
-print(small(5, 10, 21))
+print(min(5, 10, 21))
 #This will round Numbers
 print(round(5.6))
 print(round(5.2))
