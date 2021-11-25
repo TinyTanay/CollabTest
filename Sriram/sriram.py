@@ -92,3 +92,7 @@ print(ceil(3.2))
 print(sqrt(36))
 
 #Getting input from users
+
+#Basic promt
+name = input("Enter your name: ")
+print("Hello " + name + "!")
