@@ -109,5 +109,7 @@ else:
     print("Lmao you midget. You are so short!")
 if weight >= "45":
     print("You are pretty fat, not gonna lie")
-else:
+elif weight <= "45":
     print("Noice one mate. You are not fat!")
+else:
+    print("I don't know what to say man!")
