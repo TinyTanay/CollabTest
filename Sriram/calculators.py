@@ -18,9 +18,5 @@ elif symbol == "x":
     print(float(num1) * float(num2))
 elif symbol == "square":
     print(float(num1) * float(num1) + float(num2) * float(num2))
-elif symbol == "power":
-    print(pow(int(num1), int(num2))
-elif symbol == "sqrt":
-    print(sqrt(num1) + sqrt(num2))
 else:
     print(float(num1) / float(num2))
