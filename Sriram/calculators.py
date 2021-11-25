@@ -15,6 +15,6 @@ if symbol is "+":
 elif symbol is "-":
     print(float(num1) - float(num2))
 elif symbol is "x":
-    print(float(num1) x float(num2))
+    print(float(num1) * float(num2))
 else:
     print(float(num1) / float(num2))
