@@ -95,4 +95,11 @@ print(sqrt(36))
 
 #Basic promt
 name = input("Enter your name: ")
+age = input("Enter your age: ")
+height = input("Enter your height: ")
+weight = input("Enter your weight: ")
 print("Hello " + name + "!")
+if age >= 13:
+    print("You are allowed to use this")
+else:
+    print("Sad life mate. You are not old enough for this. ")
