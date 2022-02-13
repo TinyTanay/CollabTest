@@ -1,6 +1,6 @@
 
 person = input("Enter the name of someone you know: ")
-characteristic = imput("Enter a characteristic: ")
+characteristic = input("Enter a characteristic: ")
 item = input("Enter an item: ")
 
 print(person + " is smart")
