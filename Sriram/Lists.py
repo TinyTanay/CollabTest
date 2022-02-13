@@ -9,3 +9,9 @@ sports = ["cricket", "soccer", "basketball"]
 print(sports[2])
 
 #Which would print Basketball
+
+#You can also use negative numbers, for example like this.
+
+print(sports[-3])
+
+#Which would print Cricket
