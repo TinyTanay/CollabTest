@@ -15,8 +15,9 @@ print("Bottom")
 #You can also add code after the function is called back
 #The above will print, Top, the function which is hello user and then bottom
 def say_hello(name, age):
-    print("Hello " + name + "you are " + age)
-say_hello("Sriram", 14)
-say_hello("Sairam", 12)
+    print("Hello " + name + ", you are " + age)
+
+say_hello("Sriram", "14")
+say_hello("Sairam", "12")
 
 #This will print hello sriram you are 14 and hello sairam you are 12
